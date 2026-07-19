@@ -5,15 +5,11 @@ This project focuses on **Data Cleaning** and **Exploratory Data Analysis (EDA)*
 
 This project was completed as part of the **Prodigy InfoTech Data Science Internship – Task 02**.
 
----
-
 ## 🎯 Objective
 - Perform data cleaning and preprocessing.
 - Explore the dataset using descriptive statistics.
 - Visualize relationships between different variables.
 - Identify patterns and trends affecting passenger survival.
-
----
 
 ## 🛠️ Technologies Used
 - Python
@@ -23,15 +19,11 @@ This project was completed as part of the **Prodigy InfoTech Data Science Intern
 - Matplotlib
 - Seaborn
 
----
-
 ## 📂 Dataset
 **Dataset:** Titanic Dataset
 
 Sample Dataset:
 https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202
-
----
 
 ## 📁 Project Structure
 
@@ -42,7 +34,6 @@ Task-02/
 │── README.md
 ```
 
----
 
 ## 📊 Exploratory Data Analysis Performed
 
@@ -71,7 +62,6 @@ Task-02/
 - Boxplots
 - Histograms
 
----
 
 ## 📈 Key Insights
 
@@ -83,13 +73,10 @@ Task-02/
 - Missing values were mainly found in the Age and Cabin columns.
 - Fare showed a positively skewed distribution with several outliers.
 
----
 
 ## 📌 Conclusion
 
 The Titanic dataset provides valuable insights into how different factors influenced passenger survival. Through data cleaning and exploratory analysis, important relationships between passenger demographics, ticket class, and survival outcomes were identified. Proper preprocessing improved data quality and enabled meaningful visualization and interpretation.
-
----
 
 ## 🚀 Learning Outcomes
 
@@ -100,8 +87,6 @@ The Titanic dataset provides valuable insights into how different factors influe
 - Statistical Analysis
 - Feature Relationship Analysis
 - Pattern Identification using Python
-
----
 
 ## 📸 Sample Visualizations
 
@@ -127,7 +112,6 @@ git clone https://github.com/your-username/Task-02.git
 
 ```bash
 cd Task-02
-```
 
 3. Install required libraries
 
@@ -139,11 +123,8 @@ pip install pandas numpy matplotlib seaborn
 
 ```bash
 jupyter notebook
-```
 
 5. Open `Titanic_EDA.ipynb` and run all cells.
-
----
 
 ## 📚 Internship Details
 
@@ -153,8 +134,6 @@ jupyter notebook
 
 **Project:** Data Cleaning and Exploratory Data Analysis (EDA)
 
----
-
 ## 👩‍💻 Author
 
 **Boyapati Sathwika**
@@ -162,7 +141,5 @@ jupyter notebook
 GitHub: https://github.com/boyapatisathwika359
 
 LinkedIn: www.linkedin.com/in/boyapati-sathwika
-
----
 
 ## ⭐ If you found this project useful, consider giving it a Star!
